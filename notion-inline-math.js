@@ -15,7 +15,10 @@
 //   - The inline math will revert to inline code when the block becomes active.
 
 // Acknowledgement
-// This script was inspired by: https://github.com/Penguinlay/notion-inline-latex
+// This script was inspired by:
+// https://github.com/Penguinlay/notion-inline-latex
+// https://gist.github.com/denosawr/8a5e434bd97154fba81ea91e79a8c99b
+// https://github.com/ghosw/notion-inline-math-equations
 
 GM_addStyle(`
 .notion-frame span .katex {
